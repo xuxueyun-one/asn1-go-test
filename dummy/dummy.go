@@ -1,6 +1,6 @@
 package dummy
 
-// Hello returns hello
+// Hello returns string hello
 func Hello() string {
 	return "hello"
 }
